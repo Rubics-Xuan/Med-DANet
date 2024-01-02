@@ -3,6 +3,8 @@
 This repo is the official implementation for: 
 [Med-DANet: Dynamic Architecture Network for Efficient Medical Volumetric Segmentation](https://arxiv.org/abs/2206.06575) and [Med-DANet V2: A Flexible Dynamic Architecture for Efficient Medical Volumetric Segmentation](https://arxiv.org/abs/2310.18656).
 
+<h4 align="center"> <a href="https://sevenshr.github.io/Med-DANet_V2/" align="center"> [Project page] </h4> 
+
 ## Requirements
 - python 3.7
 - pytorch 1.6.0
